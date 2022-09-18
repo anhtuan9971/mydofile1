@@ -1,0 +1,12 @@
+ca|capabilities|around
+cap|capabilities|around
+lsp|lspconfig|around
+lsp|lsp|around
+rer|require|around
+capa|capabilities|around
+a|anhtaun|around
+r|try_resources|snippets
+intfunc|intfunc|snippets|S
+intfunc|intfunc|snippets|S
+p|println() : void|java
+println|println() : void|java

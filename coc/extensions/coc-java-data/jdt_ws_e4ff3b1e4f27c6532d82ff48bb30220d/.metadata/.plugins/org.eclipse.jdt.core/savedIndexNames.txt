@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+/Users/tuananh/.config/coc/extensions/coc-java-data/jdt_ws_e4ff3b1e4f27c6532d82ff48bb30220d/.metadata/.plugins/org.eclipse.jdt.core
+977827174.index
+171105441.index
+64108190.index
+1865797976.index
+1632722537.index
+3842426239.index
+862042143.index
+4101758246.index
+1945146928.index
+1844854736.index
+2202149350.index
+806129114.index
